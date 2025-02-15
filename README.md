@@ -8,3 +8,5 @@ just making a little github repo to dump some of my stuff (maybe drop the Polus 
 [here's a cool song i like](https://youtu.be/YEnx9yhEe7g?si=JC5ca1SO9qexu5Ux)
 
 [another one from the same band](https://youtu.be/u3BJkyHXLxQ?si=OnmnQp7d3nTbnH9x)
+
+how does one use markdown? no fucking clue
