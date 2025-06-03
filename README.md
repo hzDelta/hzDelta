@@ -1,6 +1,8 @@
 yo its delter / hzDelta
 just making a little github repo to dump some of my stuff (maybe drop the [Polus Panic source code](https://github.com/hzDelta/FNF-PolusPanic-1.25) if im feeling randy)
 
+- artist for [Airlock Client](https://github.com/YouTwbey/Airlock-Client)
+
 - major interests atm are FNF and Among Us (blame Vs. impostor lolol)
 
 - thats pretty much it ig
