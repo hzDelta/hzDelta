@@ -1,14 +1,39 @@
-yo its delter / hzDelta
-just making a little github repo to dump some of my stuff (maybe drop the [Polus Panic source code](https://github.com/hzDelta/FNF-PolusPanic-1.25) if im feeling randy)
+# hzDelta
 
-- artist for [Airlock Client](https://github.com/YouTwbey/Airlock-Client)
+https://hzdelta.carrd.co/
 
-- major interests atm are FNF and Among Us (blame Vs. impostor lolol)
+I'm not good at introductions, but here's some things you should know.
 
-- thats pretty much it ig
+## Interests
+I love to draw, make music, and code (to an extent), and video games (plus old technology in general).
 
-[here's a cool song i like](https://youtu.be/YEnx9yhEe7g?si=JC5ca1SO9qexu5Ux)
+I particularly love the indie rhythm game [Friday Night Funkin'](https://github.com/FunkinCrew/funkin), as it inspired me to pursue these hobbies in the first place.
 
-[another one from the same band](https://youtu.be/u3BJkyHXLxQ?si=OnmnQp7d3nTbnH9x)
+## Programs I Use
+### Art
+- ibisPaint X
+### Music
+- FL Studio
+  - FL Studio Mobile (rarely)
+ 
+Yes, I own an FL Studio license.
+### Coding
+- Visual Studio Code
+  - Visual Studio Community (moving to VSC, currently)
 
-[stop looking at me](https://youtu.be/H-fJgOGosf8?si=xiSJSMmSBz_llZWr)
+I'm currently working on understanding Haxe and Lua.
+ 
+## Stuff I've Done
+I've done a small handful of things, including:
+- Art assets for [Among Us 3D: Airlock Client](https://github.com/YouTwbey/Airlock-Client)
+- Art, music, and code for [Polus Panic! v1.x](https://github.com/hzDelta/FNF-PolusPanic-1.25)
+- Even more music and art I've showcased on my [YouTube Channel](https://youtube.com/@hzDelta)
+  
+## Stuff I'm Working On
+- Polus Panic! v2.0
+  - Modpack for [Codename Engine](https://github.com/CodenameCrew/CodenameEngine)
+  - Release Date: TBD
+
+- New Specimen REDUX
+  - Modpack for [Friday Night Funkin'](https://github.com/FunkinCrew/funkin)
+  - Release Date: TBD
