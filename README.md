@@ -14,12 +14,12 @@ I particularly love the indie rhythm game [Friday Night Funkin'](https://github.
 - ibisPaint X
 ### Music
 - FL Studio
-  - FL Studio Mobile (rarely)
+- FL Studio Mobile (rarely)
  
 Yes, I own an FL Studio license.
 ### Coding
 - Visual Studio Code
-  - Visual Studio Community (moving to VSC, currently)
+- Visual Studio Community (moving to VSCode, currently)
 
 I'm currently working on understanding Haxe and Lua.
  
