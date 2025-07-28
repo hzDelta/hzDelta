@@ -30,8 +30,8 @@ I've done a small handful of things, including:
 - Even more music and art I've showcased on my [YouTube Channel](https://youtube.com/@hzDelta)
   
 ## Stuff I'm Working On
-- Polus Panic! v2.0
-  - Modpack for [Codename Engine](https://github.com/CodenameCrew/CodenameEngine)
+- Polus Panic! v1.5 / v2.0
+  - Modpack(s) for [Codename Engine](https://github.com/CodenameCrew/CodenameEngine)
   - Release Date: TBD
 
 - New Specimen REDUX
