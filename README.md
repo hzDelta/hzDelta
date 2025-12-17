@@ -19,7 +19,6 @@ I particularly love the indie rhythm game [Friday Night Funkin'](https://github.
 Yes, I own an FL Studio license.
 ### Coding
 - Visual Studio Code
-- Visual Studio Community (moving to VSCode, currently)
 
 I'm currently working on understanding Haxe and Lua.
  
@@ -36,4 +35,4 @@ I've done a small handful of things, including:
 
 - New Specimen REDUX
   - Modpack for [Friday Night Funkin'](https://github.com/FunkinCrew/funkin)
-  - Release Date: TBD
+  - Release Date: December 2025 - Q1 2026
