@@ -35,4 +35,4 @@ I've done a small handful of things, including:
 
 - New Specimen REDUX
   - Modpack for [Friday Night Funkin'](https://github.com/FunkinCrew/funkin)
-  - Release Date: December 2025 - Q1 2026
+  - Release Date: December 25th, 2025
