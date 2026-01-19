@@ -13,8 +13,7 @@ I particularly love the indie rhythm game [Friday Night Funkin'](https://github.
   
 ### Music
 - FL Studio
-  
-Yes, I own an FL Studio license.
+
 ### Programming
 - Visual Studio Code; I'm currently working on understanding Haxe(Flixel).
  
