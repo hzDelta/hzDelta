@@ -35,3 +35,5 @@ I've done a small handful of things for myself and others, including:
 - Unnamed Project B
   - Role: Artist
   - Release Date: TBD
+ 
+# [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6G7K16)
