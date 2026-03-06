@@ -24,7 +24,6 @@ I've done a small handful of things for myself and others, including:
   
 ## Stuff I'm Working On
 - Polus Panic! v2.0
-  - Modpack for [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)
   - Roles: Artist, Musician, Programmer
   - Release Date: TBD
 
