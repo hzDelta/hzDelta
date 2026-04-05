@@ -20,7 +20,7 @@ I particularly love the indie rhythm game [Friday Night Funkin'](https://github.
 ## Stuff I've Done
 I've done a small handful of things for myself and others, including:
 - Art for [Among Us 3D: Airlock Client](https://github.com/YouTwbey/Airlock-Client)
-- Art, music, and code for [New Specimen REDUX](https://github.com/hzDelta/NewSpecimenREDUX_modpack-public)
+- Art, music, and code for [New Specimen REDUX](https://github.com/hzDelta/NewSpecimenREDUX_public)
   
 ## Stuff I'm Working On
 - Polus Panic! v2.0
