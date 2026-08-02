@@ -21,18 +21,5 @@ I particularly love the indie rhythm game [Friday Night Funkin'](https://github.
 I've done a small handful of things for myself and others, including:
 - Art for [Among Us 3D: Airlock Client](https://github.com/YouTwbey/Airlock-Client)
 - Art, music, and code for [New Specimen REDUX](https://github.com/hzDelta/NewSpecimenREDUX_public)
-  
-## Stuff I'm Working On
-- Polus Panic! v2.0
-  - Roles: Artist, Musician, Programmer
-  - Release Date: TBD
-
-- Unnamed Project A
-  - Role: Artist
-  - Release Date: TBD
- 
-- Unnamed Project B
-  - Role: Artist
-  - Release Date: TBD
  
 # [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6G7K16)
